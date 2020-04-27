@@ -1,1 +1,1 @@
-# code-example
+# code-example for bitrix
